@@ -93,43 +93,43 @@ let package = Package(
 
         .binaryTarget(
             name: "Libmpv-GPL",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libmpv-GPL.xcframework.zip",
-            checksum: "ffd4b845c49f16e43520ecf221fa0863a0fff3b5574a35651dc13c4e02c40a78"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libmpv-GPL.xcframework.zip",
+            checksum: "befd1098a70b0ed6540f9fa5532a2c5b74990c55e480f76d9655a6c0ce7dce59"
         ),
         .binaryTarget(
             name: "Libavcodec-GPL",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavcodec-GPL.xcframework.zip",
-            checksum: "963dbdc08f5802cbdb95807c2c9ef9e12a365d70dcda2f0f9134e3ac6d9cccf5"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavcodec-GPL.xcframework.zip",
+            checksum: "8102cc4990f551ffe544d039429ab37a5e5b7ea10fb7d25320b921165cd2296f"
         ),
         .binaryTarget(
             name: "Libavdevice-GPL",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavdevice-GPL.xcframework.zip",
-            checksum: "0314bd8f49e6f5aa508a67de37ad1ba7ff754f69dadded7e61bdce6967c5ae04"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavdevice-GPL.xcframework.zip",
+            checksum: "3dafcc0b3b55a97856c28d27e66731424fe91dd3f822ead8fb112cc879bc502f"
         ),
         .binaryTarget(
             name: "Libavformat-GPL",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavformat-GPL.xcframework.zip",
-            checksum: "6bc144c0ce7c6aa67620341df684e66d6fbb1343f38152292ba24bc853d2aaf7"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavformat-GPL.xcframework.zip",
+            checksum: "8642611b712a1ba9e210924a16c291c02ebeb5ffe1996b53b75790a24a4169ff"
         ),
         .binaryTarget(
             name: "Libavfilter-GPL",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavfilter-GPL.xcframework.zip",
-            checksum: "a2789f3bc48c87108cc7dc76b755b84c54eb58ac2f510866a4feb3c729d868c2"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavfilter-GPL.xcframework.zip",
+            checksum: "e1113fa5d2edacb9fb97387930f574a9b82d55826e51fa334fb617df1b882e4a"
         ),
         .binaryTarget(
             name: "Libavutil-GPL",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavutil-GPL.xcframework.zip",
-            checksum: "b9f679fe6e31b8423f09f0b9dcb618e51713369de903e5177a780593a666743c"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavutil-GPL.xcframework.zip",
+            checksum: "339247361dc845fbef223dbdf417d517c026aa7dbecb5e42aaea7335d598f853"
         ),
         .binaryTarget(
             name: "Libswresample-GPL",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libswresample-GPL.xcframework.zip",
-            checksum: "c47648e7a2380f0bacea471f5d858b316f2017858ae5025c0dc5f0ea17b43ec7"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libswresample-GPL.xcframework.zip",
+            checksum: "fa30289506335188808d97aa22a5bda968c56b6bee78b955672f40690f9cdc16"
         ),
         .binaryTarget(
             name: "Libswscale-GPL",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libswscale-GPL.xcframework.zip",
-            checksum: "bf1063e41174ca05145af024ab1209c692013136607a79a18f0e410fdbb6bc48"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libswscale-GPL.xcframework.zip",
+            checksum: "8e2f6240a79d2acdf8584ad79ee86987a88ea5f0375090032d1d68513d963c8d"
         ),
         //AUTO_GENERATE_TARGETS_BEGIN//
 
@@ -247,38 +247,38 @@ let package = Package(
 
         .binaryTarget(
             name: "Libavcodec",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavcodec.xcframework.zip",
-            checksum: "057f87dc3d678ab28b282a4f8502cebfacd8b6bba2ba69b619f8014e828859a8"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavcodec.xcframework.zip",
+            checksum: "9b5fa58e98ff23699b49cdfce5f303e3accd233492d90669448ed6c615ba73cc"
         ),
         .binaryTarget(
             name: "Libavdevice",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavdevice.xcframework.zip",
-            checksum: "65fd1bc34688f7f4727615ad58ba3ecef584e7a8e8551444b5a6d1fcd3db58ef"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavdevice.xcframework.zip",
+            checksum: "a412e5133df284e81916605fb6a1113f593455d1559c2d8d90825b79fcb3030f"
         ),
         .binaryTarget(
             name: "Libavformat",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavformat.xcframework.zip",
-            checksum: "71ceff00b978ea75a25ca8b62ec4040330a0ae060f8e615ddfd00c90f93da0fe"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavformat.xcframework.zip",
+            checksum: "8f318f203588d2ca783323faad902bc774bd2faa11d17273f7382d2d0fdbe567"
         ),
         .binaryTarget(
             name: "Libavfilter",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavfilter.xcframework.zip",
-            checksum: "ba81bdb9b8876e4259a9bfba2b47b462afa051c5202d232d349b56437ce408a3"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavfilter.xcframework.zip",
+            checksum: "e2f2c017ee2c4ee15bb7f11deea62b07c19992c0a94185f75ddaffcfabc35d0d"
         ),
         .binaryTarget(
             name: "Libavutil",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libavutil.xcframework.zip",
-            checksum: "03475c885c89e86109d08c0c01651990af9492fd75ab04f643df79807267f3cc"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libavutil.xcframework.zip",
+            checksum: "131a8632e956e171785eeaf30a9a8ec318162ed2c99f3377a09f5982a1f4d626"
         ),
         .binaryTarget(
             name: "Libswresample",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libswresample.xcframework.zip",
-            checksum: "f9c31fa604d5fbb07969c1b31a1a8e9415bdd6a3481276a891699fd824a79bf4"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libswresample.xcframework.zip",
+            checksum: "6cbccf7197104d9e3ec7cd8916d28d3a916abf2b113922585dc7206795caa3f8"
         ),
         .binaryTarget(
             name: "Libswscale",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libswscale.xcframework.zip",
-            checksum: "638f68f576a69b287902c0e58631956dd4583451bbadfa9dd949ae7182677d2b"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libswscale.xcframework.zip",
+            checksum: "e2fd10f3769d29a6bcabd909f3b70198c7f8d1c5b415a530c57e00b1d97724b7"
         ),
 
         .binaryTarget(
@@ -295,14 +295,14 @@ let package = Package(
 
         .binaryTarget(
             name: "Libbluray",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libbluray.xcframework.zip",
-            checksum: "4cab5658d5bf6a88c06fa567b1b3e60c8d36562faa8947a573e8dd82dc6475aa"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libbluray.xcframework.zip",
+            checksum: "01215bbe9a61fb57cd50f3b3b04429205f1717a307a3e93df3317640c4b1f1f4"
         ),
 
         .binaryTarget(
             name: "Libmpv",
-            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0-n7.1/Libmpv.xcframework.zip",
-            checksum: "a79db2390a8955dc5887b0e0fd8daddb2e6b7ef8574896c7316c20a5dc87a8cc"
+            url: "https://github.com/mpvkit/MPVKit/releases/download/0.39.0/Libmpv.xcframework.zip",
+            checksum: "953c88ba3eeb431cde6a332cf5fecf948d8596cc3a2d4d92ed8bac0fb2a7f313"
         ),
         //AUTO_GENERATE_TARGETS_END//
     ]
